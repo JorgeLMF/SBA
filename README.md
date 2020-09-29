@@ -1,1 +1,1 @@
-Proyecto del Landing Page SBA
+La Landing Page de la aplicación SBA se creará con WebStorm.
